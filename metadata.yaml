@@ -1,0 +1,39 @@
+_repo: Dramatische-Werken-De-comedie-der-liefde-Brand-Peer-Gynt_63364
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Clant van der Mijll-Piepers, J.
+    aliases:
+    - Clant van der Mijll-Piepers, J. (Adriana Jacoba Francisca)
+    - Piepers, J. Clant van der Mijll-
+    - Mijll-Piepers, J. Clant van der
+    - Van der Mijll-Piepers, J. Clant
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '38434'
+    url: http://www.gutenberg.org/2009/agents/38434
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Henrik_Ibsen
+    - https://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63364'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into Dutch'
+- GITenberg
+title: 'Dramatische Werken: De comedie der liefde; Brand; Peer Gynt'
+url: http://www.gutenberg.org/ebooks/63364
